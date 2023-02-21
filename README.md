@@ -1,4 +1,4 @@
-### Hello there
+# Hello there!
 
 My name is Alex Bremner and I am a graduate research assistant in the [School of Natural Resources at UT Knoxville](https://naturalresources.tennessee.edu/).
 
